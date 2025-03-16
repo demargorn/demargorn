@@ -49,7 +49,7 @@
 - **Ссылка на проект:** https://github.com/demargorn/todo-app_react-vite
 - **Ссылка на попробовать:** https://demargorn.github.io/todo-app_react-vite
  
-### `B\`osa N\`oga Online Store`
+### `B'osa N'oga Online Store`
 - **Описание:** Этот проект представляет собой платформу для продажи обуви, предлагающую пользователям удобный интерфейс для поиска, выбора и покупки обуви различных брендов и моделей.
 - **Технологии:** HTML5, CSS3, Bootstrap CSS, TypeScript, React, React Router, Redux Toolkit, Vite.
 - **Ссылка на проект:** https://github.com/demargorn/bosa-noga-online-store_react-ts
