@@ -9,8 +9,8 @@
 ### Мои ключевые компетенции
 
 * Языки: HTML5, CSS3, JavaScript, TypeScript
-* Фреймворки и библиотеки: React, React Router, Redux Toolkit, Bootstrap CSS, Tailwind CSS
-* Инструментарий: Webpack, Vite, ESLint, Babel, Npm, Yarn, Git, GitHub, Markdown, JDoc, VS Code, CodePen, JSFiddle, StackBlitz
+* Фреймворки и библиотеки: React, React Router, Redux Toolkit, Bootstrap CSS
+* Инструментарий: Webpack, Vite, ESLint, Babel, Npm, Yarn, Git, GitHub, Markdown, JDoc, VS Code, CodePen
 * Адаптивный дизайн
 
  ### Мои неключевые компетенции
