@@ -23,7 +23,7 @@
 
 ### `Country Flags Explorer`
 - **Описание:** Страница для изучения стран мира с детальной информацией.
-- **Технологии:** HTML5, CSS3, Styled Components, TypeScript, React, Redux ToolKit, React Router, Vite.
+- **Технологии:** HTML5, CSS3, Styled Components, TypeScript, React, Redux ToolKit, React Router, REST Countries API, Vite.
 - **Ссылка на проект:** https://github.com/demargorn/country-flags_react-ts
 - **Ссылка на попробовать:** https://demargorn.github.io/country-flags_react-ts
 
