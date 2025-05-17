@@ -21,11 +21,11 @@
 - **Ссылка на проект:** https://github.com/demargorn/retro-game
 - **Ссылка на попробовать:** https://demargorn.github.io/retro-game
 
-### `Todo App`
-- **Описание:** Учебное веб-приложение, которое позволяет пользователям создать список задач и управлять им. Приложение предоставляет удобный интерфейс для добавления новых задач, пометки выполненных дел, а также удаления задач.
-- **Технологии:** HTML5, CSS3, TypeScript, Vite.
-- **Ссылка на проект:** https://github.com/demargorn/todo_typescript-vite
-- **Ссылка на попробовать:** https://demargorn.github.io/todo_typescript-vite
+### `Country Flags Explorer`
+- **Описание:** Страница для изучения стран мира с детальной информацией.
+- **Технологии:** HTML5, CSS3, Styled Components, TypeScript, React, Redux ToolKit, React Router, Vite.
+- **Ссылка на проект:** https://github.com/demargorn/country-flags_react-ts
+- **Ссылка на попробовать:** https://demargorn.github.io/country-flags_react-ts
 
 ### `Developer Finder App`
 - **Описание:** Простое приложение для поиска пользователей на GitHub.
